@@ -1,0 +1,18 @@
+Parte 1.
+2- Almacena todo el contenedor al que posee como atribudo id a c1
+3- El contenedor que tiene el id = c1 posee la cadena de texto "hola mundo!"    
+7a- Una casilla input con placeholder "escriba su texto"
+7b- El innerHtml, envia o devuelve en formato html de modo que si es interpretado por el navegador;
+en cambio innerText solo es el puro texto, devuelve despues de las etiquetas de apertura y antes de las de cierre.
+
+Parte 2.
+1. Una coleccion de elementos html cuya clase sea c2
+2. Los elementos de clase c2 con el nuevo color.
+3a. Los elementos de clase c2 con casilla de texto y el placeholder
+3b. El innerHtml, envia o devuelve en formato html de modo que si es interpretado por el navegador;
+en cambio innerText solo es el puro texto, devuelve despues de las etiquetas de apertura y antes de las de cierre.
+
+Parte 3.
+4a. Se guarda en la variable msj el texto que este escrito en la casilla de texto y luego el valor de esa variable
+se inserta en la etiqueta con id showMsj.
+4b.Value es lo que contiene un input mientras que innerHtml es el puro texto que contiene una etiqueta especifica.
